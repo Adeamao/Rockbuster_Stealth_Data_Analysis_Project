@@ -36,6 +36,6 @@ Loaded the Rockbuster dataset into a PostgreSQL database.
 4. High-Value Customers: Analyzed the lifetime value of customers to identify key segments.
 5. Geographic Sales Analysis: Compared sales figures across different regions.
 # Project Structure 
-1.	Includes visualizations in Tableau Public.
+1.	Includes visualizations in Tableau Public. <a href="https://public.tableau.com/app/profile/adewale.omotosho.amao/viz/shared/4GT83FW4P">Visualization</a>
 2.	Includes a narrative story combining data insights with business strategies. 
 3.	Includes SQL queries addressing the management’s questions 
