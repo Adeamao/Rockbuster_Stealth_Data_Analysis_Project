@@ -1,4 +1,4 @@
-# Rockbuster_Stealth_Data_Analysis_Project
+# Rockbuster Stealth Data Analysis Project
 # Overview 
 This repository contains SQL queries and analyses for the Rockbuster Stealth Data Analysis project. Acting as a data analyst for Rockbuster Stealth LLC, I analyzed their movie rental data to uncover insights that will support the launch of their new online video rental service. The analysis aims to answer key business questions posed by the management team. 
 # Project Objectives 
